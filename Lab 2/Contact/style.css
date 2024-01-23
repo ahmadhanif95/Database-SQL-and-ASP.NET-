@@ -1,0 +1,40 @@
+h1
+{
+	color:orange;
+	text-align:center;
+	text-decoration:underline;
+}
+#top
+{
+
+    text-align:center; 
+    margin-left:auto; 
+    margin-right:auto; 
+    width:100%;
+}
+#mid
+{
+    background-color:lightblue;
+    margin-left:auto; 
+    margin-right:auto; 
+    width:100%;
+     border: 1px solid;
+
+}
+#bottom
+{
+    text-align:center; 
+    margin-left:auto; 
+    margin-right:auto; 
+    width:100%;
+}
+.left
+{
+	width:30%;
+ border: 1px solid;
+}
+.right
+{
+	width:70%;
+ border: 1px solid;
+}

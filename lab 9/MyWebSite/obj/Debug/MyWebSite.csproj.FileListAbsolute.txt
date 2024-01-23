@@ -1,0 +1,60 @@
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\MyWebSite.dll.config
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\MyWebSite.dll
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\MyWebSite.pdb
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\DotNetOpenAuth.AspNet.dll
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\DotNetOpenAuth.Core.dll
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\DotNetOpenAuth.OAuth.dll
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\DotNetOpenAuth.OpenId.dll
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\EntityFramework.dll
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\Microsoft.Web.Infrastructure.dll
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\System.Web.Providers.dll
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\System.Net.Http.dll
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\EntityFramework.xml
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\DotNetOpenAuth.Core.xml
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\DotNetOpenAuth.OAuth.xml
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\DotNetOpenAuth.OpenId.xml
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\DotNetOpenAuth.AspNet.xml
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\bin\System.Net.Http.xml
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\obj\Debug\MyWebSite.csprojResolveAssemblyReference.cache
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\obj\Debug\MyWebSite.dll
+c:\users\temp.domain.019\documents\visual studio 2013\Projects\MyWebSite\MyWebSite\obj\Debug\MyWebSite.pdb
+D:\lab 9\MyWebSite\obj\Debug\MyWebSite.csprojResolveAssemblyReference.cache
+D:\lab 9\MyWebSite\obj\Debug\MyWebSite.dll
+D:\lab 9\MyWebSite\obj\Debug\MyWebSite.pdb
+D:\lab 9\MyWebSite\bin\MyWebSite.dll.config
+D:\lab 9\MyWebSite\bin\MyWebSite.dll
+D:\lab 9\MyWebSite\bin\MyWebSite.pdb
+D:\lab 9\MyWebSite\bin\AspNet.ScriptManager.jQuery.dll
+D:\lab 9\MyWebSite\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\lab 9\MyWebSite\bin\DotNetOpenAuth.AspNet.dll
+D:\lab 9\MyWebSite\bin\DotNetOpenAuth.Core.dll
+D:\lab 9\MyWebSite\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\lab 9\MyWebSite\bin\DotNetOpenAuth.OAuth.dll
+D:\lab 9\MyWebSite\bin\DotNetOpenAuth.OpenId.dll
+D:\lab 9\MyWebSite\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\lab 9\MyWebSite\bin\EntityFramework.dll
+D:\lab 9\MyWebSite\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\lab 9\MyWebSite\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\lab 9\MyWebSite\bin\Microsoft.Web.Infrastructure.dll
+D:\lab 9\MyWebSite\bin\System.Web.Providers.dll
+D:\lab 9\MyWebSite\bin\System.Net.Http.dll
+D:\lab 9\MyWebSite\bin\EntityFramework.xml
+D:\lab 9\MyWebSite\bin\DotNetOpenAuth.Core.xml
+D:\lab 9\MyWebSite\bin\DotNetOpenAuth.OAuth.xml
+D:\lab 9\MyWebSite\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\lab 9\MyWebSite\bin\DotNetOpenAuth.OpenId.xml
+D:\lab 9\MyWebSite\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\lab 9\MyWebSite\bin\DotNetOpenAuth.AspNet.xml
+D:\lab 9\MyWebSite\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\lab 9\MyWebSite\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\lab 9\MyWebSite\bin\System.Net.Http.xml

@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    
+    <title>My Personal Web Page</title>
+    <link rel="stylesheet" type="text/css" href=style.css media="screen" />
+</head>
+<body>
+    
+<table id="top">
+    <tr>
+        <td>
+            <h1 > My Personal Web Page</h1>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="front.jpg" />
+        </td>
+    </tr>
+    
+</table>
+<table id="mid">
+    <tr >
+         <td class="left" >Name</td><td class="right"><input id="Text1" type="text"/></td>
+         
+    </tr>
+    <tr>
+        <td class="left">E-mail</td><td class="right"><a href="mailto:me@gmail.com">Your Name</a></td>
+    </tr>
+      <tr>
+        <td class="left">Courses Taken</td><td class="right">
+            <select>
+  <option value="db">Database Systems</option>
+  <option value="ds">Data Structures</option>
+  <option value="elec">Electronics</option>
+  </select> </td>
+    </tr>
+    <tr>
+        <td class="left">Degree</td>
+        <td class="right">BS<input id="BS" name="degree" type="radio" checked="checked" />
+        MS<input id="MS" name="degree" type="radio" />
+        </td>
+    </tr>
+    <tr>
+        <td class="left">Do you like DB?</td>
+        <td class="right"><input id="chk" type="checkbox" />
+        </td>
+    </tr>
+       
+</table>
+<script src="myScript.js" language="javascript"></script>
+<table id="bottom" >
+<tr><td ><input type="submit" onclick="validate()" value="Submit">  <input type="reset" onclick="reset()" value="Reset"></td></tr>
+</table>
+
+</body>
+</html>

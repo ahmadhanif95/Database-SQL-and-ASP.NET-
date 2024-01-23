@@ -1,0 +1,42 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MyMasterPage.master.cs" Inherits="MyWebSite.MyMasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link href="MyCssFile.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <div id="header">
+            <div id="logo">
+                <h1>
+                    <a href="#">19L-1316 Hafiz Ahmad</a></h1>
+            </div>
+            <div id="menu">
+                <ul>
+                    <li class="active"><a href="Home.aspx" accesskey="1" title="">Home</a></li>
+                    <li><a href="Search.aspx" accesskey="2" title="">Search</a></li>
+                    <li><a href="#" accesskey="3" title="">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+        <hr />
+        <div id="page">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <!--Footer></!-->
+        <div id="footer">
+            <p>
+                (c) 2007 YourSite.com. All rights reserved. Design by <a href="http://www.nodethirtythree.com/">
+                    NodeThirtyThree</a> and <a href="http://www.freecsstemplates.org/">Free CSS Templates</a>.</p>
+        </div>
+    </div>
+    </form>
+</body>
+</html>
